@@ -1,2 +1,3 @@
 remote_theme: helohe/midnight
 show_downloads: false
+show_header: false
